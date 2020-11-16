@@ -42,13 +42,13 @@ Some tips are:
 
 ## Requirements
 
-Ubuntu 16.04
-CUDA 10.1
-cuDNN 7.5
-Python 3.6
-sklearn 0.15.0.
-numpy 1.15.4
-matplotlib 2.1.0
+- Ubuntu 16.04
+- CUDA 10.1
+- cuDNN 7.5
+- Python 3.6
+- sklearn 0.15.0.
+- numpy 1.15.4
+- matplotlib 2.1.0
 
 ## Testing
 
