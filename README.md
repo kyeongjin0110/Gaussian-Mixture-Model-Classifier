@@ -1,5 +1,5 @@
 # Gaussian-Mixture-Model-Classifier
-#### The goal of this assignment is to classify using Gaussian Mixture Model (GMM) classifier.
+#### The goal of this assignment is to solve the classification problem using Gaussian Mixture Model (GMM) classifier.
 
 ## Main description
 
@@ -54,13 +54,13 @@ Some tips are:
 
 ```bash
 # visualization process gmm
-python3 main_R.m
+python3 main_R.py
 
 # original 2-class classifciation
-python3 main_R_0.m
+python3 main_R_0.py
 
 # for check number of component
-python3 main_R_1.m
+python3 main_R_1.py
 
 # for visualization decision boundary
-python3 main_R_2.m
+python3 main_R_2.py
